@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Work rules and workflow",
+    "description": "Adds the package's rules/KADDA.md to the system prompt as global work rules and drives a staged development workflow: /dev, /verify, /review commands, no file edits in plan mode, and no turn end after unverified edits."
+  }
+}

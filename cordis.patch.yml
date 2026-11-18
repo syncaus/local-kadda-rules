@@ -1,0 +1,3 @@
+- insert:
+    - id: kadda-rules
+      name: '@local/kadda-rules'

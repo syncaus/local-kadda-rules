@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "工作规则与开发流程",
+    "description": "把包内的 rules/KADDA.md 作为全局工作规则加入系统提示词，并驱动六阶段开发流程：/dev、/verify、/review 命令，计划模式禁改文件，改完未验证不让回合结束。"
+  }
+}
