@@ -4,6 +4,7 @@
   "private": true,
   "type": "module",
   "description": "Work rules plus a staged development workflow: prompt sections, /dev /verify /review commands, and plan/stop gates.",
+  "license": "Apache-2.0",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/syncaus/local-kadda-rules.git"
